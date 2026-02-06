@@ -2916,7 +2916,7 @@ export const shadows = {
 
 ## 8.1 Button Interactions
 
-**Primary Button (Golden Brass)**:
+**Primary Button (Golden Brass)**: 
 ```tsx
 <Button
   className={cn(
